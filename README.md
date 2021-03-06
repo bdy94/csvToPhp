@@ -1,0 +1,2 @@
+# csvToPhp
+Function CSV => ARRAY
